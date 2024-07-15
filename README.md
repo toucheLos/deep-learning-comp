@@ -1,11 +1,6 @@
+**How do different GPU configurations and HPC settings affect the performance of various deep learning modules?**
 
-1. Research Question
-How do different GPU configurations and HPC settings affect the performance of various deep learning modules?
-
-2. Hypothesis
-Varying the number of GPUs and other HPC settings ()
-
-3. Experiment Design
+**Experiment Design**
 
 Categories and Models:
 - CNN Models: ResNet-50, VGG16
