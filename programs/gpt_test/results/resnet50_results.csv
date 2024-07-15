@@ -1,0 +1,8 @@
+Batch Size,Learning Rate,Precision,GPUs,Training Time Per Epoch,Inference Time,Model Accuracy,Validation Loss,CPU Usage (%),Memory Usage (%),GPU Usage (%),GPU Memory Usage (MiB),Energy Consumption (W)
+32,0.1,FP16,1,[115.98518776893616],6.503402471542358,,6.123669076919556,81.9,71.5,"0
+0
+0
+0","15563
+719
+719
+719",
