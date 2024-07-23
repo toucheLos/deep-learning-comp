@@ -30,7 +30,7 @@ Modules and Tools
 - Deep Learning Frameworks: TensorFlow, PyTorch
 - GPU Management: CUDA, cuDNN
 - Containerization: Singularity
-- Monitoring Tools, NVIDIA Nsight, TensorBoard
+- Monitoring Tools: nvidia-smi
 - Statistical Analysis: pandas, matplotlib
 
 
