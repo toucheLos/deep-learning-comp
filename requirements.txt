@@ -1,0 +1,40 @@
+# TensorFlow and related packages
+tensorflow
+tensorflow-gpu
+tensorboard
+tensorflow-addons
+
+# PyTorch and related packages
+torch
+torchvision
+torchaudio
+transformers  # For BERT, GPT-2
+
+# Object Detection
+yolov3-tf2
+
+# RNNs and Sequence Models
+tensorflow-probability
+
+# Reinforcement Learning
+stable-baselines3  # For PPO, DQN
+
+# Generative Models
+tensorflow-gan
+
+# Speech and Audio Processing
+deepspeech
+
+# Multimodal Models
+clip
+
+# Utilities
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Monitoring and Analysis
+nvidia-ml-py3
+nvidia-smi
